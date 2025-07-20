@@ -1,0 +1,2840 @@
+{
+  "metadata": {
+    "cleaned_timestamp": "2025-07-20T12:26:06.019048",
+    "total_products": 76,
+    "fields_removed": [
+      "price",
+      "delivery_time",
+      "image_url",
+      "image_alt",
+      "total_items",
+      "scraped_timestamp",
+      "availability"
+    ],
+    "original_file": "swiggy_products_final.json"
+  },
+  "products": [
+    {
+      "product_index": 1,
+      "product_name": "Marlboro Advanced Compact Pack",
+      "price_numeric": 95,
+      "weight_quantity": "10 cigarettes",
+      "description": "Compact pack Marlboro cigarettes",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 2,
+      "product_name": "Marlboro Advance",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "Premium Marlboro Advance cigarettes",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 3,
+      "product_name": "I GEN Full Flavour Pack",
+      "price_numeric": 280,
+      "description": "Intense flavor full tobacco pack",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 4,
+      "product_name": "Marlboro Fuse Beyond",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 5,
+      "product_name": "Classic Ice Burst",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Capsule-flavored cigarette.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 6,
+      "product_name": "Classic Ice Burst",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "Mint-flavored candy with a chilling burst.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 7,
+      "product_name": "Gold Flake Indie Mint",
+      "price_numeric": 100,
+      "weight_quantity": "10 cigarettes",
+      "description": "Mint-flavored classic Indian cigarette",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 8,
+      "product_name": "Classic Connect",
+      "price_numeric": 300,
+      "weight_quantity": "20 cigarettes",
+      "description": "Cigarette variant from Classic",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 9,
+      "product_name": "Gold Flake Premium Honeydew Blend Filter",
+      "price_numeric": 95,
+      "weight_quantity": "10 cigarettes",
+      "description": "Premium filtered cigarettes.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 10,
+      "product_name": "Classic Regular",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Regular filter cigarette pack",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 11,
+      "product_name": "Gold Flake Neo Smart",
+      "price_numeric": 95,
+      "weight_quantity": "10 cigarettes",
+      "description": "Innovative slim Gold Flake variant",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 12,
+      "product_name": "Gold Flake Kings",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Popular full-size Indian cigarette brand.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 13,
+      "product_name": "Stellar SHIFT MILLENIUM CIG 20S",
+      "price_numeric": 200,
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 14,
+      "product_name": "Classic Regular",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "Smooth classic tobacco variant",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 15,
+      "product_name": "Gold Flake King Lights",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "Cigarettes - King size variant",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 16,
+      "product_name": "American Club Code 20'S Pack",
+      "price_numeric": 240,
+      "description": "Bold American-style filter smokes",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 17,
+      "product_name": "India Kings Rich Gold",
+      "price_numeric": 360,
+      "weight_quantity": "20 cigarettes",
+      "description": "Premium cigarettes with a smooth blend",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 18,
+      "product_name": "Stellar Shift Duos double burst 20s pack",
+      "price_numeric": 240,
+      "weight_quantity": "20 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 19,
+      "product_name": "Gold Flake Mixpod Ftk",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "Smooth and balanced flavor blend in a convenient Mixpod format.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 20,
+      "product_name": "Classic Blue Leaf",
+      "price_numeric": 400,
+      "weight_quantity": "20 cigarettes",
+      "description": "Premium paan blend with a classic touch of menthol freshness.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 21,
+      "product_name": "Gold Flake Slk",
+      "price_numeric": 224,
+      "weight_quantity": "16 cigarettes",
+      "description": "Slim cigarette variant from Gold Flake.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 22,
+      "product_name": "Gold Flake Twinpod",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "Dual flavor pods offering a refined smoking experience.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 23,
+      "product_name": "Classic Icon 10'S Pack",
+      "price_numeric": 95,
+      "description": "Premium tobacco blend in a sleek 10-stick pack.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 24,
+      "product_name": "Gold Flake Twinpod",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Twin-pack premium category cigarette",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 25,
+      "product_name": "India Kings White Gold",
+      "price_numeric": 360,
+      "weight_quantity": "20 cigarettes",
+      "description": "Premium category cigarettes",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 26,
+      "product_name": "Classic Alphatec",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Reliable and stylish lighter for everyday use.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 27,
+      "product_name": "Wills Flake Wills Flake",
+      "price_numeric": 95,
+      "weight_quantity": "10 cigarettes",
+      "description": "Classic cigarette with flake tobacco",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 28,
+      "product_name": "Marlboro Fine Touch",
+      "price_numeric": 120,
+      "weight_quantity": "10 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 29,
+      "product_name": "Classic Milds",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Mild tobacco flavor cigarette",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 30,
+      "product_name": "Classic Ultra Milds",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "Mild-flavored cigarette variant",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 31,
+      "product_name": "Marlboro Clove",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 32,
+      "product_name": "Marlboro Gold",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 33,
+      "product_name": "Classic Verve Low Smell",
+      "price_numeric": 190,
+      "weight_quantity": "16 cigarettes",
+      "description": "Reduced-odor classic cigarettes",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 34,
+      "product_name": "Classic low Smell",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Low odor classic tobacco",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 35,
+      "product_name": "Stellar Define",
+      "price_numeric": 200,
+      "weight_quantity": "20 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 36,
+      "product_name": "Marlboro Gold",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 37,
+      "product_name": "Stellar Shift",
+      "price_numeric": 200,
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 38,
+      "product_name": "Gold Flake Mix Pod",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Bold pod blend, classic tobacco taste",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 39,
+      "product_name": "Luvin Strawberry Cigar",
+      "price_numeric": 90,
+      "weight_quantity": "5 pieces",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 40,
+      "product_name": "Black N More Orange Mint Club Cigars",
+      "price_numeric": 210,
+      "weight_quantity": "5 pieces",
+      "description": "Premium cigars with orange mint blend",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 41,
+      "product_name": "Luvin Orange Flavour Cigars",
+      "price_numeric": 90,
+      "weight_quantity": "5 pieces",
+      "description": "Flavored cigars with refreshing orange essence",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 42,
+      "product_name": "Black N More Tropical Fun Club Cigars",
+      "price_numeric": 210,
+      "weight_quantity": "5 pieces",
+      "description": "Tropical Fun Club flavored cigars.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 43,
+      "product_name": "Black N More Chocolate Club Cigars",
+      "price_numeric": 210,
+      "weight_quantity": "5 pieces",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 44,
+      "product_name": "Luvin Vanilla Cigar",
+      "price_numeric": 90,
+      "weight_quantity": "5 pieces",
+      "description": "Flavored vanilla cigars for a smooth experience",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 45,
+      "product_name": "Luvin Grape Flavour Cigars",
+      "price_numeric": 90,
+      "weight_quantity": "5 pieces",
+      "description": "Sweet grape-flavored mini cigars",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 46,
+      "product_name": "Luvin Pan Masala Flavour Cigars",
+      "price_numeric": 90,
+      "weight_quantity": "5 pieces",
+      "description": "Unique pan masala flavored herbal cigars",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 47,
+      "product_name": "Black N More Strawberry Club Cigars",
+      "price_numeric": 210,
+      "weight_quantity": "5 pieces",
+      "description": "Flavored club cigars with strawberry essence",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 48,
+      "product_name": "BALMORAL Dominican Corona Tubo Cigar",
+      "price_numeric": 700,
+      "description": "Premium Dominican cigar in a protective tube",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 49,
+      "product_name": "Luvin Clove Flavour Cigars",
+      "price_numeric": 90,
+      "weight_quantity": "5 pieces",
+      "description": "Clove-flavoured mini cigars",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 50,
+      "product_name": "Black N More Blueberry Club Cigars",
+      "price_numeric": 210,
+      "weight_quantity": "5 pieces",
+      "description": "Fruit-infused mellow cigar smoke",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 51,
+      "product_name": "King Edward Imperial Chocolate Cigars",
+      "price_numeric": 625,
+      "weight_quantity": "5 pieces",
+      "description": "Elegant chocolate-flavored cigars",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 52,
+      "product_name": "Black N More Gold Club Cigars",
+      "price_numeric": 210,
+      "weight_quantity": "5 pieces",
+      "description": "Premium hand-rolled cigars",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 53,
+      "product_name": "Luvin Sour Apple Flavour Cigars",
+      "price_numeric": 90,
+      "weight_quantity": "5 pieces",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 54,
+      "product_name": "Marlboro Fuse Beyond",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 55,
+      "product_name": "DUNHILL Switch Black 84Mm Cigarettes",
+      "price_numeric": 525,
+      "weight_quantity": "20 cigarettes",
+      "description": "Premium black cigarettes with capsule",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 56,
+      "product_name": "Gudang Garam Gudang Garam",
+      "price_numeric": 280,
+      "weight_quantity": "12 pieces",
+      "description": "Popular Indonesian clove cigarettes",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 57,
+      "product_name": "Benson &amp; Hedges Special Filter",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Classic Benson &amp; Hedges filtered smokes",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 58,
+      "product_name": "Benson &amp; Hedges Blue Gold",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Premium tobacco blend in a signature pack.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 59,
+      "product_name": "DUNHILL (Blue) Cigarettes",
+      "price_numeric": 525,
+      "weight_quantity": "20 cigarettes",
+      "description": "Smooth luxury UK blend",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 60,
+      "product_name": "Mond Variance Blueberry Menthol",
+      "price_numeric": 350,
+      "weight_quantity": "20 cigarettes",
+      "description": "Blueberry-flavored menthol lozenges",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 61,
+      "product_name": "ESSE Change Pack",
+      "price_numeric": 380,
+      "weight_quantity": "20 cigarettes",
+      "description": "Premium flavored changeable cigarette pack",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 62,
+      "product_name": "MAGNATE MAGIC Switch King Size Cigars",
+      "price_numeric": 350,
+      "description": "King size cigars with switch flavor mechanism",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 63,
+      "product_name": "DUNHILL Switch Green (Blue) Cigarettes",
+      "price_numeric": 525,
+      "weight_quantity": "20 cigarettes",
+      "description": "Menthol-flavored cigarettes with capsule switch.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 64,
+      "product_name": "Marlboro Red",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 65,
+      "product_name": "Marlboro Red",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 66,
+      "product_name": "DUNHILL White Cigars",
+      "price_numeric": 525,
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 67,
+      "product_name": "DUNHILL Gold Flow Filter Cigars",
+      "price_numeric": 525,
+      "description": "Premium filter cigars with smooth flavor",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 68,
+      "product_name": "Classic Double Burst",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Dual-flavored cigarette pack",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 69,
+      "product_name": "Gold Flake Premium Mint Switch",
+      "price_numeric": 95,
+      "weight_quantity": "10 cigarettes",
+      "description": "Premium mint capsule cigarettes",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 70,
+      "product_name": "Gold Flake Slk Sleeks",
+      "price_numeric": 224,
+      "weight_quantity": "16 cigarettes",
+      "description": "Slim, Stylish Cigarettes with a Premium Blend.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 71,
+      "product_name": "Marlboro Advance",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Premium cigarette variant",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 72,
+      "product_name": "ESSE Special Gold Pack",
+      "price_numeric": 350,
+      "weight_quantity": "20 cigarettes",
+      "description": "Premium blend of aromatic cigarettes",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 73,
+      "product_name": "Marlboro Filter Black 12s",
+      "price_numeric": 165,
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 74,
+      "product_name": "Stellar Mint Blast",
+      "price_numeric": 60,
+      "weight_quantity": "10 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 75,
+      "product_name": "Luvin Wine Flavour Cigars",
+      "price_numeric": 90,
+      "weight_quantity": "5 pieces",
+      "description": "Flavoured cigars with a wine essence",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 76,
+      "product_name": "Classic Double Burst10'S",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "Double-layered mint chewing gum pack.",
+      "category_name": "Regular Cigarettes"
+    },
+    {
+      "product_index": 1,
+      "product_name": "Marlboro Fuse Beyond",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Flavour Cigarettes"
+    },
+    {
+      "product_index": 2,
+      "product_name": "Stellar Shift",
+      "price_numeric": 200,
+      "description": "No Convenience Fee",
+      "category_name": "Flavour Cigarettes"
+    },
+    {
+      "product_index": 3,
+      "product_name": "Gold Flake Mix Pod",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Bold pod blend, classic tobacco taste",
+      "category_name": "Flavour Cigarettes"
+    },
+    {
+      "product_index": 4,
+      "product_name": "Classic Ice Burst",
+      "price_numeric": 170,
+      "weight_quantity": "10 cigarettes",
+      "description": "Mint-flavored candy with a chilling burst.",
+      "category_name": "Flavour Cigarettes"
+    },
+    {
+      "product_index": 5,
+      "product_name": "Classic Ice Burst",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Capsule-flavored cigarette.",
+      "category_name": "Flavour Cigarettes"
+    },
+    {
+      "product_index": 6,
+      "product_name": "Classic Double Burst",
+      "price_numeric": 340,
+      "weight_quantity": "20 cigarettes",
+      "description": "Dual-flavored cigarette pack",
+      "category_name": "Flavour Cigarettes"
+    },
+    {
+      "product_index": 7,
+      "product_name": "Stellar Define",
+      "price_numeric": 200,
+      "weight_quantity": "20 cigarettes",
+      "description": "No Convenience Fee",
+      "category_name": "Flavour Cigarettes"
+    },
+
+    {
+      "product_index": 1,
+      "product_name": "Alba Cigarette Lighter",
+      "price_numeric": 25,
+      "description": "Compact refillable cigarette lighter",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 2,
+      "product_name": "Zippo Windproof Lighters 12 oz. Lighter Fuel",
+      "price_numeric": 849,
+      "description": "Premium lighter fuel for Zippo lighters",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 3,
+      "product_name": "Zippo Windproof Lighters Reg Lemon Matte Ltr",
+      "price_numeric": 2799,
+      "description": "Everyday essential with quality you can trust",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 4,
+      "product_name": "Stash-Pro Jetty Windproof Lighter (Assorted)",
+      "price_numeric": 50,
+      "description": "Refillable windproof lighter, assorted colours",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 5,
+      "product_name": "Zippo Windproof Lighters WPL Red Matte Lighter",
+      "price_numeric": 2549,
+      "description": "Windproof metal lighter in red matte finish",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 6,
+      "product_name": "Stash-Pro Flippy Cigar Jet Flame Refillable Lighter (Assorted)",
+      "price_numeric": 275,
+      "description": "Stylish refillable jet flame lighter in assorted colors.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 7,
+      "product_name": "Stash-Pro Maxi Refillable Lighter (Assorted)",
+      "price_numeric": 95,
+      "description": "Refillable maxi-size lighters in assorted colors",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 8,
+      "product_name": "Cigibud Pro|Smoking Filter To Reduce Tar And Harmful Substances Green",
+      "price_numeric": 350,
+      "weight_quantity": "30 pieces",
+      "description": "Reduces tar and harmful substances in cigarettes",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 9,
+      "product_name": "Homelites Matchbox",
+      "price_numeric": 10,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 10,
+      "product_name": "Original Gangster Booklet of 32 Brown Leaves and 32 Tips (King Sized)",
+      "price_numeric": 90,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 11,
+      "product_name": "Slimjim Skins Unbleached King Size Pre Rolled Cones",
+      "price_numeric": 20,
+      "description": "Unbleached king-size pre-rolled cones",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 12,
+      "product_name": "Slimjim Skins Unbleached King Size Slim Papers",
+      "price_numeric": 70,
+      "description": "Natural king-size rolling papers",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 13,
+      "product_name": "Raw Classic King Size Slim White Rolling Paper",
+      "price_numeric": 80,
+      "description": "Unbleached king-size rolling paper",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 14,
+      "product_name": "Stash-Pro Pink Rolling Papers",
+      "price_numeric": 140,
+      "weight_quantity": "64 pieces",
+      "description": "Smooth and Stylish Rolling Experience Every Time",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 15,
+      "product_name": "Cones Pre-Rolled King Size Slim Empty",
+      "price_numeric": 60,
+      "weight_quantity": "6 pieces",
+      "description": "Pre-rolled king-size empty cones.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 16,
+      "product_name": "ROYAL MAN Natural Cigars",
+      "price_numeric": 400,
+      "description": "Premium Cigars, Smooth &amp; Aromatic.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 17,
+      "product_name": "RIZLA Natura King Size Super Slim Rolling Paper Brown Combi",
+      "price_numeric": 210,
+      "description": "Slim brown rolling papers made from natural fibers.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 18,
+      "product_name": "RIZLA Bamboo Ultra Thin Rolling Paper Brown",
+      "price_numeric": 100,
+      "description": "Eco-friendly ultra-thin bamboo rolling papers.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 19,
+      "product_name": "Slimjim Skins Hemp King Size Slim Papers",
+      "price_numeric": 100,
+      "description": "King-size hemp rolling papers for smoother burns.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 20,
+      "product_name": "RIZLA Bamboo Medium Size Rolling Paper Brown",
+      "price_numeric": 90,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 21,
+      "product_name": "Stash-Pro Brown Rippertipper",
+      "price_numeric": 230,
+      "weight_quantity": "64 pieces",
+      "description": "Bold and smooth, a premium paan companion.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 22,
+      "product_name": "Raw Classic King Size Rolling Brown Paper and Filter Tips",
+      "price_numeric": 150,
+      "description": "Natural rolling papers with filter tips",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 23,
+      "product_name": "Stash-Pro Brown Rolling Papers",
+      "price_numeric": 200,
+      "weight_quantity": "128 pieces",
+      "description": "Premium brown papers for smooth smoking experience.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 24,
+      "product_name": "ROYAL MAN Chocolate Cigars",
+      "price_numeric": 400,
+      "description": "Premium Cigars, Rich Chocolate.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 25,
+      "product_name": "Slimjim Skins Unbleached 1 14 Size Papers",
+      "price_numeric": 70,
+      "description": "Unbleached rolling papers",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 26,
+      "product_name": "RIZLA Ultra Thin Medium Size Rolling Paper White",
+      "price_numeric": 80,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 27,
+      "product_name": "Stash-Pro Small Size Rolling Paper White 1-1/4Th Size",
+      "price_numeric": 90,
+      "description": "Compact white rolling paper, 1-1/4 size",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 28,
+      "product_name": "Elements Elements King Size Slim Rolling Papers - 32 Leaves/Pack",
+      "price_numeric": 80,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 29,
+      "product_name": "LIT PYRAMID GIANT 300mm Brown Pre-Rolled Cone",
+      "price_numeric": 199,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 30,
+      "product_name": "Stash-Pro Emergency Supply White (10P)",
+      "price_numeric": 99,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 31,
+      "product_name": "LIT GLASSY WRAP ROLLING PAPER",
+      "price_numeric": 300,
+      "weight_quantity": "50 pieces",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 32,
+      "product_name": "LIT Pyramid Volution Organic White Pre Rolled Cones Set of - 5",
+      "price_numeric": 350,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 33,
+      "product_name": "LIT Pyramid Volution Organic Brown Pre Rolled Cones Set of - 5",
+      "price_numeric": 350,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 34,
+      "product_name": "LIT Pyramid Pre Rolled Cones Rice Paper White Set of - 32",
+      "price_numeric": 420,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 35,
+      "product_name": "LIT Pyramid Pre Rolled Cigs Unbleached Paper Brown Set of - 32",
+      "price_numeric": 420,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 36,
+      "product_name": "LIT Rolls Carbon Filter",
+      "price_numeric": 399,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 37,
+      "product_name": "Swastik Housewares Glass Ash Tray (Round, 11 x 11 cm, Transparent)",
+      "price_numeric": 79,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 38,
+      "product_name": "STASH PRO Aluminium 60Mm Multicoloured Herb Grinder Crusher",
+      "price_numeric": 1199,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 39,
+      "product_name": "STASH PRO Aluminium 60Mm Rubber Coated Grinder Crusher",
+      "price_numeric": 1599,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 40,
+      "product_name": "Stash-Pro Brown Pre-Rolled Cones",
+      "price_numeric": 90,
+      "weight_quantity": "6 pieces",
+      "description": "Pre-rolled brown cones for a smooth smoking experience.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 41,
+      "product_name": "LIT Pyramid Giant 300mm White Pre-Rolled Cone",
+      "price_numeric": 199,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 42,
+      "product_name": "Raw Perforated Wide Tips / Roach",
+      "price_numeric": 50,
+      "weight_quantity": "50 pieces",
+      "description": "Rolling tips (roach) for a smooth smoke experience.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 43,
+      "product_name": "Slimjim Skins Printed Paper Filters",
+      "price_numeric": 50,
+      "description": "Printed rolling paper filters",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 44,
+      "product_name": "Cigibud Cigibud",
+      "price_numeric": 70,
+      "weight_quantity": "7 pieces",
+      "description": "Compact smokable tobacco buds",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 45,
+      "product_name": "Oot Plastic Crusher/Grinder - 3 Parts By Outontrip",
+      "price_numeric": 150,
+      "description": "Effortless Herb Grinding with Durable, Compact 3-Part Design",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 46,
+      "product_name": "HASHWOW DesiDiya  Black JD Astray, Stylish Black Ceramic Cigarette Holder",
+      "price_numeric": 125,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 47,
+      "product_name": "LIT Pro White Rolling Paper Tray",
+      "price_numeric": 135,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 48,
+      "product_name": "LIT Elite Pack Hemp Rolling Paper",
+      "price_numeric": 120,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 49,
+      "product_name": "Raw Black Slim Rolling Paper King Size- 32 Leaves/Pack",
+      "price_numeric": 100,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 50,
+      "product_name": "LIT Pyramid Pre Rolled Cone Brown Pack Of - 6",
+      "price_numeric": 88,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 51,
+      "product_name": "Original Gangster Ben-G Wallet (King Sized)",
+      "price_numeric": 150,
+      "description": "Spacious king-sized wallet",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 52,
+      "product_name": "LIT Pyramid Pre Rolled Cone White Pack of - 6",
+      "price_numeric": 88,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 53,
+      "product_name": "Sesh Pocket Sesh Kit - Rolling Paper Combo Of 6 - Mixing Tray And Papers - Carry Slide Box",
+      "price_numeric": 250,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 54,
+      "product_name": "Elements Elements White Rolling Paper Tips - 1 Pack (50 Pieces)",
+      "price_numeric": 50,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 55,
+      "product_name": "LIT PYRAMID PURPLE PRE ROLLED CONES",
+      "price_numeric": 20,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 56,
+      "product_name": "Swastik Housewares 11 cm Square Glass Ash Tray - Transparent",
+      "price_numeric": 89,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 57,
+      "product_name": "LIT Thins Pre Rolled Cones White",
+      "price_numeric": 420,
+      "weight_quantity": "50 pieces",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 58,
+      "product_name": "Original Gangster Ben-G Cones (King Sized)",
+      "price_numeric": 75,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 59,
+      "product_name": "Stash-Pro Lighter Refill Gas Bottle (Universal Compatible With All Butane Lighters)",
+      "price_numeric": 240,
+      "description": "Universal gas refill compatible with butane lighters.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 60,
+      "product_name": "LIT 420 DOUBLE BOOKLET BROWN ROLLING PAPER",
+      "price_numeric": 222,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 61,
+      "product_name": "RIZLA Super Thin Silver Slim King Rolling Pape Size Combi",
+      "price_numeric": 180,
+      "description": "Super thin king-size rolling paper combi",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 62,
+      "product_name": "Dynore Stainless Steel Lid Ash Tray",
+      "price_numeric": 80,
+      "description": "Covered cigarette ash container",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 63,
+      "product_name": "LIT Masala Premium Rolling Tobacco",
+      "price_numeric": 499,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 64,
+      "product_name": "LIT Pyramid Hemp Pre Rolled Cones",
+      "price_numeric": 20,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 65,
+      "product_name": "LIT Pro Brown Rolling Paper Tray",
+      "price_numeric": 135,
+      "description": "Stylish rolling tray for paper users",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 66,
+      "product_name": "Stash-Pro Flat Coconut Hookah Coal Cubes (30 Pieces)",
+      "price_numeric": 140,
+      "description": "Long-lasting Heat, Premium Coconut Coal.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 67,
+      "product_name": "LIT Pyramid Black Pre Rolled Cones",
+      "price_numeric": 20,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 68,
+      "product_name": "Original Gangster Babysitter Cones ( 1 &amp; 1/4 Sized)",
+      "price_numeric": 135,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 69,
+      "product_name": "LIT ELITE PACK PINK ROLLING PAPER",
+      "price_numeric": 120,
+      "description": "Stylish Pink Rolling Papers for a Smooth Experience",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 70,
+      "product_name": "LIT 420 Double Booklet White Rolling Paper",
+      "price_numeric": 222,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 71,
+      "product_name": "LIT Thins Pre Rolled Cones ( 1 P, Total-2 Cone )",
+      "price_numeric": 25,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 72,
+      "product_name": "Original Gangster White Cones (King Sized)",
+      "price_numeric": 90,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 73,
+      "product_name": "Stash-Pro Ripper Tipper Brown Rolling Paper (Small) Pack",
+      "price_numeric": 230,
+      "description": "Small-size brown rolling paper",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 74,
+      "product_name": "ROYAL MAN Strawberry Cigars",
+      "price_numeric": 400,
+      "description": "Sweet Indulgence, Strawberry Cigars.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 75,
+      "product_name": "Original Gangster Brown Cones (King Sized)",
+      "price_numeric": 90,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 76,
+      "product_name": "LIT ELITE PACK PURPLE ROLLING PAPER",
+      "price_numeric": 120,
+      "description": "Premium slow-burning rolling paper in a stylish pack",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 77,
+      "product_name": "Stash-Pro Small Size Rolling Paper Brown 1-1/4Th Size",
+      "price_numeric": 90,
+      "description": "Small 1¼ size brown rolling paper.",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 78,
+      "product_name": "LIT PYRAMID PINK PRE ROLLED CONES",
+      "price_numeric": 20,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 79,
+      "product_name": "Stash-Pro Emergency Supply Brown 4*4 (10P)",
+      "price_numeric": 99,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 80,
+      "product_name": "Bartique Metal Ash Tray (10 x 3 cm, Gold, Round Shaped)",
+      "price_numeric": 102,
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 81,
+      "product_name": "Zippo Windproof Lighters 4 oz. Lighter Fluid",
+      "price_numeric": 380,
+      "description": "Lighter fluid refill for Zippo lighters",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 82,
+      "product_name": "Stash-Pro Emergency Supply Pink 4*4 (10P)",
+      "price_numeric": 149,
+      "description": "Compact 4x4 pad kit for emergencies",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 83,
+      "product_name": "LIT THINS PRE ROLLED CONES ( Pack of 6 Cones )",
+      "price_numeric": 60,
+      "weight_quantity": "6 pieces",
+      "category_name": "Smoking Accessories"
+    },
+    {
+      "product_index": 84,
+      "product_name": "Stash-Pro Super Slims White Rolling Paper (32P)",
+      "price_numeric": 55,
+      "category_name": "Smoking Accessories"
+    },
+
+    {
+      "product_index": 1,
+      "product_name": "STASH PRO Smokey Lust Ceramic Hookah Chillum",
+      "price_numeric": 200,
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 2,
+      "product_name": "STASH PRO Smokey Lust Organic Mud Hookah Chillum No.3",
+      "price_numeric": 75,
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 3,
+      "product_name": "Unbranded Natural Coal",
+      "price_numeric": 250,
+      "description": "Pure natural coal for hookah",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 4,
+      "product_name": "Stash-Pro Premium Magic Coal Tablets",
+      "price_numeric": 80,
+      "weight_quantity": "10 pieces",
+      "description": "Premium instant lighting coal tablets",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 5,
+      "product_name": "Oot Irfaz Coco Zeal Natural Charcoal Tablets",
+      "price_numeric": 210,
+      "weight_quantity": "30 pieces",
+      "description": "Natural charcoal for religious use",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 6,
+      "product_name": "Hakuna Hookah Assorted Color",
+      "price_numeric": 1660,
+      "description": "Stylish, colorful hookahs for personal use.",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 7,
+      "product_name": "STASH PRO Premium Pipe By Smokey Lust",
+      "price_numeric": 325,
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 8,
+      "product_name": "MYA Heera Hookah Assorted Color",
+      "price_numeric": 3700,
+      "description": "Designer hookah available in assorted colors",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 9,
+      "product_name": "Unbranded Steel Tong",
+      "price_numeric": 100,
+      "description": "Stainless steel kitchen tong.",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 10,
+      "product_name": "Oot Afzal Hookah Premium Foils 50 Pcs",
+      "price_numeric": 150,
+      "weight_quantity": "50 pieces",
+      "description": "Premium Hookah Foil, 50 Pcs Pack.",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 11,
+      "product_name": "Unbranded Pre Cut Foil",
+      "price_numeric": 130,
+      "description": "Convenient Foil, Easy Use.",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 12,
+      "product_name": "Hakuna Filter Tips Small Assorted",
+      "price_numeric": 36,
+      "description": "Assorted small cigarette filter tips",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 13,
+      "product_name": "Hakuna Rubber Tube",
+      "price_numeric": 350,
+      "description": "Durable &amp; Flexible, Rubber Tube.",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 14,
+      "product_name": "STASH PRO Smokey Lust  Silicon Hookah Chillum (Colour May Vary)",
+      "price_numeric": 400,
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 15,
+      "product_name": "Stash-Pro Coconut Hookah Coal Cubes",
+      "price_numeric": 140,
+      "weight_quantity": "18 pieces",
+      "description": "Eco-friendly coconut shell hookah charcoal cubes",
+      "category_name": "Hookah Needs"
+    },
+    {
+      "product_index": 16,
+      "product_name": "Stash-Pro Flat Coconut Hookah Coal Cubes (30 Pieces)",
+      "price_numeric": 140,
+      "description": "Long-lasting Heat, Premium Coconut Coal.",
+      "category_name": "Hookah Needs"
+    },
+
+    {
+      "product_index": 1,
+      "product_name": "RYZE Nicotine Gum 2mg (Frosty Mint)",
+      "price_numeric": 73,
+      "description": "Frosty Mint, Nicotine Relief."
+    },
+    {
+      "product_index": 2,
+      "product_name": "RYZE Nicotine Gum 2mg (Fruit Blast)",
+      "price_numeric": 76,
+      "description": "Nicotine gum in fruity flavor for smoke cessation."
+    },
+    {
+      "product_index": 3,
+      "product_name": "Nicotex Gum Mint Plus Big Tin 2mg",
+      "price_numeric": 364,
+      "description": "Nicotine gum for quitting smoking, mint flavor"
+    },
+    {
+      "product_index": 4,
+      "product_name": "Nicotex Mint Plus Tin 2 Mg",
+      "price_numeric": 268,
+      "weight_quantity": "29 pieces",
+      "description": "2mg nicotine gums to quit smoking."
+    },
+    {
+      "product_index": 5,
+      "product_name": "Nicotex Mint Plus 2 Mg",
+      "price_numeric": 111,
+      "weight_quantity": "12 pieces",
+      "description": "Beat cravings with fresh mint confidence."
+    },
+    {
+      "product_index": 6,
+      "product_name": "Sanfe Anti Smoking Patch | Controlled nicotine intake, 24 hr release",
+      "price_numeric": 154,
+      "weight_quantity": "5 pieces"
+    },
+    {
+      "product_index": 7,
+      "product_name": "Nicotex Nicotine Gums Fruit Burst Flavour 2Mg",
+      "price_numeric": 83,
+      "weight_quantity": "9 pieces"
+    },
+    {
+      "product_index": 8,
+      "product_name": "Nicotex Nicotine Gums Ultra Mint Flavour 2Mg",
+      "price_numeric": 68,
+      "weight_quantity": "9 pieces"
+    },
+    {
+      "product_index": 9,
+      "product_name": "Nicotex Paan",
+      "price_numeric": 111,
+      "weight_quantity": "12 pieces",
+      "description": "Nicotine gum with refreshing paan flavor for quitting smoking."
+    },
+
+    {
+      "product_index": 1,
+      "product_name": "Nicotex Gum Mint Plus Big Tin 2mg",
+      "price_numeric": 364,
+      "description": "Nicotine gum for quitting smoking, mint flavor",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 2,
+      "product_name": "Pass Pass Sweet Magic Mix",
+      "price_numeric": 70,
+      "description": "Mouth freshener with a mix of sweet ingredients",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 3,
+      "product_name": "Urban Platter Traditional Gujarati Tangy Mukhwas",
+      "price_numeric": 242,
+      "description": "Traditional tangy mouth freshener",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 4,
+      "product_name": "Urban Platter Digestive Masala Mango Slice Mukhwas",
+      "price_numeric": 343,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 5,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Fennel",
+      "price_numeric": 280,
+      "description": "Fennel-infused betel tea in convenient sachets.",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 6,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Original",
+      "price_numeric": 280,
+      "description": "Original blend herbal tea in gift box",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 7,
+      "product_name": "Urban Platter Traditional Gujarati Royal Mukhwas",
+      "price_numeric": 291,
+      "description": "Premium mukhwas blend with royal flavors",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 8,
+      "product_name": "Urban Platter Gujarati Dhana Dal Mukhwas",
+      "price_numeric": 343,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 9,
+      "product_name": "Urban Platter Rajasthani Mukhwas",
+      "price_numeric": 315,
+      "description": "Bold &amp; spicy Rajasthani mouth freshener",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 10,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Mint",
+      "price_numeric": 280,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 11,
+      "product_name": "Urban Platter Gulabi Kharek Mukhwas",
+      "price_numeric": 315,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 12,
+      "product_name": "Urban Platter Calcutta Paan Mukhwas",
+      "price_numeric": 388,
+      "description": "Paan-inspired traditional digestive mix",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 13,
+      "product_name": "Urban Platter Traditional Gujarati Everyday Mukhwas",
+      "price_numeric": 245,
+      "description": "Traditional Gujarati digestive mouth freshener",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 14,
+      "product_name": "Praakritik Natural Pan Mukhwas (Digestive Aid) 100 G",
+      "price_numeric": 128,
+      "description": "Digestive mouth freshener with natural ingredients.",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 15,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Assorted",
+      "price_numeric": 280,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 16,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Cinnamon",
+      "price_numeric": 280,
+      "description": "Cinnamon-flavored tea blend in premium box",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 17,
+      "product_name": "Urban Platter Traditional Gujarati Digestive Mukhwas",
+      "price_numeric": 245,
+      "description": "Traditional post-meal digestive blend",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 18,
+      "product_name": "LIT Pyramid Giant 300mm White Pre-Rolled Cone",
+      "price_numeric": 199,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 19,
+      "product_name": "Praakritik Natural Paan Artisan Gulkand",
+      "price_numeric": 313,
+      "description": "Organic rose petal preserve with paan essence",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 20,
+      "product_name": "The Betel Leaf Co Date Mint Gulkand Jar",
+      "price_numeric": 300,
+      "description": "Refreshing date &amp; mint paan spread",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 21,
+      "product_name": "Stash-Pro Emergency Supply White (10P)",
+      "price_numeric": 99,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 22,
+      "product_name": "The Betel Leaf Co Rose Gulkand Jar",
+      "price_numeric": 250,
+      "description": "Rose gulkand made with betel leaves",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 23,
+      "product_name": "The Betel Leaf Co Honey Dry Fruits Gulkand Jar",
+      "price_numeric": 325,
+      "description": "Traditional gulkand with honey &amp; dry fruits",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 24,
+      "product_name": "The Betel Leaf Co Grab &amp; Go Calcutta Meetha Arid Paan",
+      "price_numeric": 120,
+      "description": "Authentic Sweet Paan for On-the-Go Enjoyment",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 25,
+      "product_name": "The Betel Leaf Co Grab &amp; Go Rose Arid Paan",
+      "price_numeric": 120,
+      "description": "Ready-to-eat paan with rose flavor",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 26,
+      "product_name": "The Betel Leaf Co Grab &amp; Go Magai Arid Paan",
+      "price_numeric": 120,
+      "description": "Fresh Packaged Magai Paan for Quick Consumption",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 27,
+      "product_name": "STASH PRO Aluminium 60Mm Multicoloured Herb Grinder Crusher",
+      "price_numeric": 1199,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 28,
+      "product_name": "Original Gangster Booklet of 32 Brown Leaves and 32 Tips (King Sized)",
+      "price_numeric": 90,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 29,
+      "product_name": "RIZLA Bamboo Medium Size Rolling Paper Brown",
+      "price_numeric": 90,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 30,
+      "product_name": "RIZLA Ultra Thin Medium Size Rolling Paper White",
+      "price_numeric": 80,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 31,
+      "product_name": "Zippo Windproof Lighters 12 oz. Lighter Fuel",
+      "price_numeric": 849,
+      "description": "Premium lighter fuel for Zippo lighters",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 32,
+      "product_name": "Zippo Windproof Lighters WPL Red Matte Lighter",
+      "price_numeric": 2549,
+      "description": "Windproof metal lighter in red matte finish",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 33,
+      "product_name": "LIT Pro White Rolling Paper Tray",
+      "price_numeric": 135,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 34,
+      "product_name": "LIT Elite Pack Hemp Rolling Paper",
+      "price_numeric": 120,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 35,
+      "product_name": "Madmix Paan Raisins",
+      "price_numeric": 132,
+      "description": "Sweet paan-flavored raisins",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 36,
+      "product_name": "Original Gangster Ben-G Wallet (King Sized)",
+      "price_numeric": 150,
+      "description": "Spacious king-sized wallet",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 37,
+      "product_name": "Pass Pass Minty Mix",
+      "price_numeric": 70,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 38,
+      "product_name": "The Betel Leaf Co SUGAR POP Nail Lacquer | High Shine | Chip Resistant | Quick Drying",
+      "price_numeric": 120,
+      "description": "Calcutta-style betel leaf (saada paan).",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 39,
+      "product_name": "LIT Thins Pre Rolled Cones White",
+      "price_numeric": 420,
+      "weight_quantity": "50 pieces",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 40,
+      "product_name": "Original Gangster Ben-G Cones (King Sized)",
+      "price_numeric": 75,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 41,
+      "product_name": "LIT Masala Premium Rolling Tobacco",
+      "price_numeric": 499,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 42,
+      "product_name": "Original Gangster Babysitter Cones ( 1 &amp; 1/4 Sized)",
+      "price_numeric": 135,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 43,
+      "product_name": "LIT ELITE PACK PINK ROLLING PAPER",
+      "price_numeric": 120,
+      "description": "Stylish Pink Rolling Papers for a Smooth Experience",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 44,
+      "product_name": "LIT Thins Pre Rolled Cones ( 1 P, Total-2 Cone )",
+      "price_numeric": 25,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 45,
+      "product_name": "Nicotex Nicotine Gums Ultra Mint Flavour 2Mg",
+      "price_numeric": 68,
+      "weight_quantity": "9 pieces",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 46,
+      "product_name": "Original Gangster White Cones (King Sized)",
+      "price_numeric": 90,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 47,
+      "product_name": "Original Gangster Brown Cones (King Sized)",
+      "price_numeric": 90,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 48,
+      "product_name": "Stash-Pro Emergency Supply Brown 4*4 (10P)",
+      "price_numeric": 99,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 49,
+      "product_name": "Sanfe Anti Smoking Patch | Controlled nicotine intake, 24 hr release",
+      "price_numeric": 154,
+      "weight_quantity": "5 pieces",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 50,
+      "product_name": "Stash-Pro Emergency Supply Pink 4*4 (10P)",
+      "price_numeric": 149,
+      "description": "Compact 4x4 pad kit for emergencies",
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 51,
+      "product_name": "Stash-Pro Super Slims White Rolling Paper (32P)",
+      "price_numeric": 55,
+      "category_name": "Newly added"
+    },
+    {
+      "product_index": 52,
+      "product_name": "Urban Platter Banarasi Paan Mukhwas",
+      "price_numeric": 343,
+      "description": "Traditional paan-flavored mouth freshener",
+      "category_name": "Newly added"
+    },
+
+    {
+      "product_index": 1,
+      "product_name": "Tic Tac Mint",
+      "price_numeric": 19,
+      "description": "Iconic mint candy in a pop-open box",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 2,
+      "product_name": "Rajnigandha Silver Pearls Cardamon Seeds Blister",
+      "price_numeric": 60,
+      "description": "Silver-coated cardamom pearls in convenient blister.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 3,
+      "product_name": "Pass Pass Sweet Magic Mix",
+      "price_numeric": 70,
+      "description": "Mouth freshener with a mix of sweet ingredients",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 4,
+      "product_name": "Shadani Sweet Imli",
+      "price_numeric": 145,
+      "description": "Traditional sweet tamarind candy",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 5,
+      "product_name": "Orbit Sugar-Free Mixed Fruit Flavour Chewing Gum",
+      "price_numeric": 48,
+      "description": "Fruity flavored chewing gum, sugar-free.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 6,
+      "product_name": "Shadani Shahi Mix Saunf",
+      "price_numeric": 155,
+      "description": "Flavored digestive mouth freshener",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 7,
+      "product_name": "Shadani Madrasi Saunf",
+      "price_numeric": 145,
+      "description": "Flavorful after-meal mouth freshener",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 8,
+      "product_name": "Dilbahar Dizzle Mitha Pan Mouth Freshener",
+      "price_numeric": 130,
+      "description": "Sweet &amp; Refreshing, Mitha Paan Delight.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 9,
+      "product_name": "Dilbahar Dizzle Satrangee Mix Mouth Freshner",
+      "price_numeric": 140,
+      "description": "Colorful, refreshing mouth freshener for instant freshness",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 10,
+      "product_name": "Nooky Mood Uplifting Paan For Everyone",
+      "price_numeric": 307,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 11,
+      "product_name": "JoySpoon Joyspoon Calcutta Paan",
+      "price_numeric": 76,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 12,
+      "product_name": "Swad Khatta Meetha Aam Papad聽Mukhwas Mouthfreshener",
+      "price_numeric": 193,
+      "description": "Sweet &amp; sour mango snack turned into mouthfreshener.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 13,
+      "product_name": "JoySpoon Almond Delight",
+      "price_numeric": 207,
+      "description": "Creamy &amp; Nutty, Almond Indulgence.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 14,
+      "product_name": "JoySpoon Relief Munch",
+      "price_numeric": 131,
+      "description": "Tasty Treats, Comforting Snack.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 15,
+      "product_name": "Urban Platter Digestive Masala Mango Slice Mukhwas",
+      "price_numeric": 343,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 16,
+      "product_name": "Urban Platter Traditional Gujarati Digestive Mukhwas",
+      "price_numeric": 245,
+      "description": "Traditional post-meal digestive blend",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 17,
+      "product_name": "Urban Platter Calcutta Paan Mukhwas",
+      "price_numeric": 388,
+      "description": "Paan-inspired traditional digestive mix",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 18,
+      "product_name": "JoySpoon Sweet Neem",
+      "price_numeric": 131,
+      "description": "Sweet &amp; Refreshing, Unique Neem Flavor.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 19,
+      "product_name": "JoySpoon Assorted Box",
+      "price_numeric": 120,
+      "description": "Assorted box of sweet and savory JoySpoon treats",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 20,
+      "product_name": "Urban Platter Traditional Gujarati Everyday Mukhwas",
+      "price_numeric": 245,
+      "description": "Traditional Gujarati digestive mouth freshener",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 21,
+      "product_name": "Urban Platter Traditional Gujarati Tangy Mukhwas",
+      "price_numeric": 242,
+      "description": "Traditional tangy mouth freshener",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 22,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Cinnamon",
+      "price_numeric": 280,
+      "description": "Cinnamon-flavored tea blend in premium box",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 23,
+      "product_name": "JoySpoon Joyspoon Almond Delight",
+      "price_numeric": 99,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 24,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Fennel",
+      "price_numeric": 280,
+      "description": "Fennel-infused betel tea in convenient sachets.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 25,
+      "product_name": "Urban Platter Traditional Gujarati Royal Mukhwas",
+      "price_numeric": 291,
+      "description": "Premium mukhwas blend with royal flavors",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 26,
+      "product_name": "Praakritik Natural Pan Mukhwas (Digestive Aid) 100 G",
+      "price_numeric": 132,
+      "description": "Digestive mouth freshener with natural ingredients.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 27,
+      "product_name": "KIWI Kisan Window Vedic Mukhwas",
+      "price_numeric": 99,
+      "description": "Traditional Ayurvedic digestive mouth freshener.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 28,
+      "product_name": "Urban Platter Rajasthani Mukhwas",
+      "price_numeric": 315,
+      "description": "Bold &amp; spicy Rajasthani mouth freshener",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 29,
+      "product_name": "Urban Platter Gujarati Dhana Dal Mukhwas",
+      "price_numeric": 343,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 30,
+      "product_name": "JoySpoon Calcutta Paan",
+      "price_numeric": 182,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 31,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Mint",
+      "price_numeric": 280,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 32,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Original",
+      "price_numeric": 280,
+      "description": "Original blend herbal tea in gift box",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 33,
+      "product_name": "Urban Platter Gulabi Kharek Mukhwas",
+      "price_numeric": 315,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 34,
+      "product_name": "Dilbahar Yummy Digestives Manchali Imli",
+      "price_numeric": 109,
+      "description": "Sweet &amp; Tangy, Digestive Delight.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 35,
+      "product_name": "The Betel Leaf Co Paan Betel Leaf Sip - Assorted",
+      "price_numeric": 280,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 36,
+      "product_name": "POLO Breath Mint",
+      "price_numeric": 10,
+      "description": "Refreshing mint candy for instant freshness",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 37,
+      "product_name": "Mentos Mint Chewy Candy Stick",
+      "price_numeric": 20,
+      "description": "Refreshing mint flavor in a chewy candy stick.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 38,
+      "product_name": "Mentos Pure Fresh Sugarfree Spearmint Chewing Gum",
+      "price_numeric": 90,
+      "description": "Long-lasting fresh breath with sugarfree spearmint flavor.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 39,
+      "product_name": "Impact Mints Sugar Free Mints Ice Mints",
+      "price_numeric": 147,
+      "description": "Refreshing breath without sugar",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 40,
+      "product_name": "Orbit Mixed Fruit Sugarfree Chewing Gum Pot",
+      "price_numeric": 142,
+      "description": "Mixed fruit-flavored chewing gum",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 41,
+      "product_name": "Doublemint Lemonmint Chewymint Pot",
+      "price_numeric": 116,
+      "description": "Fresh Minty Chews with a Tangy Lemon Twist",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 42,
+      "product_name": "Impact Mints Sugar Free Mints Fresh Mints",
+      "price_numeric": 147,
+      "description": "Fresh Breath, Zero Sugar, Full Impact",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 43,
+      "product_name": "Impact Sugar Free Mint  Designer Edition",
+      "price_numeric": 147,
+      "description": "Stylish sugar-free mint packs",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 44,
+      "product_name": "Impact Mints Cricket Edition - Fresh Mint",
+      "price_numeric": 147,
+      "description": "Refreshing mints in a limited-edition cricket tin",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 45,
+      "product_name": "Impact Mints Sugar Free Mints Peach",
+      "price_numeric": 147,
+      "description": "Sugar-free mints with a fruity peach twist",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 46,
+      "product_name": "Impact Sugar Free Mints Pineapple",
+      "price_numeric": 147,
+      "description": "Pineapple flavored mints with zero sugar",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 47,
+      "product_name": "Impact Mint Strike Sugarfree Peppermint Gum",
+      "price_numeric": 98,
+      "description": "Intense Peppermint, Sugar-Free Freshness.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 48,
+      "product_name": "Impact Mint Strike Sugarfree Tropical Gum",
+      "price_numeric": 98,
+      "description": "Tropical Twist, Sugar-Free Freshness.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 49,
+      "product_name": "Impact Sugar Free Mints Lychee",
+      "price_numeric": 147,
+      "description": "Refreshing lychee flavored mints",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 50,
+      "product_name": "Hajmola Imli",
+      "price_numeric": 69,
+      "weight_quantity": "120 pieces",
+      "description": "Tamarind-flavoured digestive tablets.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 51,
+      "product_name": "Pulse Kachcha Aam Candy Mono Carton",
+      "price_numeric": 53,
+      "description": "Raw mango-flavored tangy candy.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 52,
+      "product_name": "Go Desi Tangy Imli Pop",
+      "price_numeric": 48,
+      "description": "Spicy tamarind lollipop bursting with desi flavor",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 53,
+      "product_name": "Parle Bigger Parle 2 In 1",
+      "price_numeric": 59,
+      "description": "Combo candy with two flavours in one",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 54,
+      "product_name": "Alpenliebe Gold More Caramelly More Tasty Toffee Pouch",
+      "price_numeric": 48,
+      "description": "Extra caramel toffee pouch pack.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 55,
+      "product_name": "Cadbury Gems Surprise Chocolate Ball",
+      "price_numeric": 49,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 56,
+      "product_name": "Candyman Choco Double Eclairs Pouch",
+      "price_numeric": 85,
+      "description": "Double-filled choco eclairs with rich flavor.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 57,
+      "product_name": "Haribo Chamallows Marshmallows",
+      "price_numeric": 255,
+      "description": "Sourced from Ireland",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 58,
+      "product_name": "Pulse Guava Candy Mono Carton",
+      "price_numeric": 52,
+      "description": "Tangy guava-flavored candy (mono carton).",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 59,
+      "product_name": "Skittles Original Chewy Fruit Candy Pack Bite Size Fruit Flavoured Candies Pouch",
+      "price_numeric": 48,
+      "description": "Bite-sized fruity chewy candy",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 60,
+      "product_name": "Go Desi Popz Kaccha Aam",
+      "price_numeric": 48,
+      "description": "Tangy raw mango lollipops with a desi twist",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 61,
+      "product_name": "Fruittella Orange Flavour Chewy Toffee Stick",
+      "price_numeric": 62,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 62,
+      "product_name": "Alpenliebe Strawberry Guava Juzt Jelly Assorted Flavour Birthday Pouch",
+      "price_numeric": 95,
+      "description": "Fruity jelly bites in birthday party-ready pouch",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 63,
+      "product_name": "Cadbury Choclairs Gold Candy Chocolate Pack",
+      "price_numeric": 49,
+      "description": "Gooey Caramel-Centered Chocolates with Cadbury Goodness",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 64,
+      "product_name": "Shadani Orange Candy",
+      "price_numeric": 132,
+      "description": "Tangy-sweet orange candy for a fruity treat",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 65,
+      "product_name": "Alpenliebe Gold Cream Strawberry Smooth And Tasty Toffee Pouch",
+      "price_numeric": 186,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 66,
+      "product_name": "Dabur Hajmola Candy",
+      "price_numeric": 245,
+      "description": "Digestive candy with tangy herbal ingredients.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 67,
+      "product_name": "Kandee Factory Marshmelts Veg Marshmallow - Rasmalai",
+      "price_numeric": 91,
+      "description": "Soft, Sweet Marshmallows with a Delicious Rasmalai Twist",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 68,
+      "product_name": "Shadani Chatpati Candy",
+      "price_numeric": 132,
+      "description": "Spicy, tangy candy delight",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 69,
+      "product_name": "Sour Punk Blueberry Candy Stick",
+      "price_numeric": 39,
+      "description": "Blueberry Stick Zap!",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 70,
+      "product_name": "Go Desi Popz Real Aam",
+      "price_numeric": 48,
+      "description": "Real mango-flavored candy on a stick",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 71,
+      "product_name": "Go Desi Popz Real Aam + Go Desi Popz Kaccha Aam + Go Desi Tangy Imli Pop",
+      "price_numeric": 144,
+      "description": "Desi candy combo with aam and imli flavors",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 72,
+      "product_name": "House Of Candy Pink &amp; White Tube Marshmallow",
+      "price_numeric": 176,
+      "description": "Sweet Treat, Pink &amp; White Marshmallows.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 73,
+      "product_name": "Boomer Krunch Strawberry Flavour Chewing Gum Tube",
+      "price_numeric": 48,
+      "description": "Chewy strawberry-flavored gum",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 74,
+      "product_name": "Swad Digestive Candy 25 Toffee Packet聽",
+      "price_numeric": 49,
+      "description": "Indian-style digestive toffee candies",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 75,
+      "product_name": "Fruittella Fruit-tella Strawberry Flavour Chewy Toffee Stick",
+      "price_numeric": 34,
+      "description": "Chewy strawberry-flavored toffee stick.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 76,
+      "product_name": "Go Desi - Popz 4 Flavour - Tangy Imli Kaccha Aam Real Aam Khatta Nimbu Lollipop Candy",
+      "price_numeric": 96,
+      "weight_quantity": "20 pieces",
+      "description": "Desi lollipops in tangy fruity flavours",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 77,
+      "product_name": "Chupa Chups Mix'Up Lollipos Party",
+      "price_numeric": 88,
+      "description": "Assorted fruity lollipops in a fun party pack",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 78,
+      "product_name": "Alpenliebe Pop Assorted Lollipop Pack Orange Strawberry &amp; Caramel Flavour",
+      "price_numeric": 235,
+      "description": "Fruity caramel lollipops for anytime fun",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 79,
+      "product_name": "Hajmola Tasty Digestive Tablets (Mr Aam Flavour)",
+      "price_numeric": 66,
+      "weight_quantity": "120 pieces",
+      "description": "Aam-flavoured tasty digestive tablets.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 80,
+      "product_name": "Shadani Anardana Goli",
+      "price_numeric": 145,
+      "description": "Pomegranate-flavored digestive candy.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 81,
+      "product_name": "Shadani Hing Peda",
+      "price_numeric": 145,
+      "description": "Digestive peda with authentic hing flavor.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 82,
+      "product_name": "Dilbahar Heeng Ki Tikiya",
+      "price_numeric": 158,
+      "description": "Hing-based traditional digestive tablet",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 83,
+      "product_name": "MR. MERCHANT Anardana Goli",
+      "price_numeric": 270,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 84,
+      "product_name": "Dilbahar Jeera Goli Special",
+      "price_numeric": 147,
+      "description": "Digestive Jeera Flavored Candy",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 85,
+      "product_name": "Shadani Sugar Coated Saunf",
+      "price_numeric": 145,
+      "description": "Sweet and Refreshing Sugar-Coated Fennel Seeds",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 86,
+      "product_name": "Go Desi Meetha Paan",
+      "price_numeric": 144,
+      "description": "Sweet &amp; Savory, Traditional Paan.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 87,
+      "product_name": "The Betel Leaf Co Calcutta Meetha Arid Paan",
+      "price_numeric": 208,
+      "description": "Traditional sweet paan with Calcutta betel leaves",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 88,
+      "product_name": "The Betel Leaf Co Calcutta Saada Arid Paan",
+      "price_numeric": 208,
+      "description": "Arid paan with authentic Calcutta flavor.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 89,
+      "product_name": "The Betel Leaf Co Grab &amp; Go Calcutta Meetha Arid Paan",
+      "price_numeric": 120,
+      "description": "Authentic Sweet Paan for On-the-Go Enjoyment",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 90,
+      "product_name": "The Betel Leaf Co Grab &amp; Go Magai Arid Paan",
+      "price_numeric": 120,
+      "description": "Fresh Packaged Magai Paan for Quick Consumption",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 91,
+      "product_name": "The Betel Leaf Co Grab &amp; Go Rose Arid Paan",
+      "price_numeric": 120,
+      "description": "Ready-to-eat paan with rose flavor",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 92,
+      "product_name": "The State Plate Paan Candy",
+      "price_numeric": 70,
+      "description": "Candy with traditional paan flavor",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 93,
+      "product_name": "Delight Foods Delight foods Banarasi Meetha Paan",
+      "price_numeric": 340,
+      "description": "Traditional Banarasi sweet paan.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 94,
+      "product_name": "The State Plate Imli Candy",
+      "price_numeric": 80,
+      "description": "Tangy and nostalgic tamarind candy",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 95,
+      "product_name": "The Betel Leaf Co Rose Gulkand Jar",
+      "price_numeric": 250,
+      "description": "Rose gulkand made with betel leaves",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 96,
+      "product_name": "The Betel Leaf Co Date Mint Gulkand Jar",
+      "price_numeric": 300,
+      "description": "Refreshing date &amp; mint paan spread",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 97,
+      "product_name": "The Betel Leaf Co Honey Dry Fruits Gulkand Jar",
+      "price_numeric": 325,
+      "description": "Traditional gulkand with honey &amp; dry fruits",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 98,
+      "product_name": "Praakritik Natural Paan Artisan Gulkand",
+      "price_numeric": 324,
+      "description": "Organic rose petal preserve with paan essence",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 99,
+      "product_name": "Hershey's Jolly Rancher Lollipops Pouch",
+      "price_numeric": 238,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 100,
+      "product_name": "Dilbahar Anardana Goli",
+      "price_numeric": 137,
+      "description": "Sweet and tangy anardana balls for digestion",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 101,
+      "product_name": "Center Fresh Mints Sugarfree Peppermint Mint",
+      "price_numeric": 29,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 102,
+      "product_name": "Mentos Rainbow Assorted Flavour Chewy Candy",
+      "price_numeric": 90,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 103,
+      "product_name": "Candyman Tofficho Strawberry Candy",
+      "price_numeric": 39,
+      "description": "Strawberry-flavored chewy toffee candy",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 104,
+      "product_name": "Candyman Sourzzz",
+      "price_numeric": 43,
+      "description": "Tangy sour-flavored candy treats",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 105,
+      "product_name": "Orbit Spearmint Sugar Free Chewing Gum Tube",
+      "price_numeric": 96,
+      "description": "Sugar-free chewing gum with long-lasting spearmint flavor",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 106,
+      "product_name": "Orbit Spearmint Sugarfree Chewing Gum Pot",
+      "price_numeric": 284,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 107,
+      "product_name": "The Betel Leaf Co SUGAR POP Nail Lacquer | High Shine | Chip Resistant | Quick Drying",
+      "price_numeric": 120,
+      "description": "Calcutta-style betel leaf (saada paan).",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 108,
+      "product_name": "Sour Punk Strawberry Candy Stick",
+      "price_numeric": 39,
+      "description": "Sourced from Thailand",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 109,
+      "product_name": "Alpenliebe Pop Assorted Flavours Lollipop",
+      "price_numeric": 45,
+      "description": "Assorted flavored lollipops.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 110,
+      "product_name": "Kandee Factory Marshmelts Veg Marshmallow - Salted Caramel",
+      "price_numeric": 98,
+      "description": "Vegan &amp; Salted Caramel Flavored Marshmallow",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 111,
+      "product_name": "Chupa Chups Sour Belt Mixed Fruit Candy",
+      "price_numeric": 53,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 112,
+      "product_name": "Skittles Wild Berry Chewy Fruit Candy Pack Bite Size Fruit Flavoured Candies Pouch",
+      "price_numeric": 141,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 113,
+      "product_name": "Orbit Sweetmint Sugarfree Chewing Gum Tube",
+      "price_numeric": 138,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 114,
+      "product_name": "Hajmola Maha Candy Pouch - Chulbuli Imli",
+      "price_numeric": 59,
+      "weight_quantity": "50 pieces",
+      "description": "Tangy tamarind-flavored digestive candy",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 115,
+      "product_name": "Candyman Tadka Lollipop",
+      "price_numeric": 43,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 116,
+      "product_name": "Impact Sugar Free Mints Watermelon",
+      "price_numeric": 147,
+      "description": "Sugar-free refreshing watermelon mints.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 117,
+      "product_name": "Paper Boat Aam Papad",
+      "price_numeric": 158,
+      "description": "Traditional mango fruit leather snack",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 118,
+      "product_name": "Doublemint Wrigley's Peppermint Mint",
+      "price_numeric": 29,
+      "description": "Sugarfree breath freshener",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 119,
+      "product_name": "Parle Bigger Mango Bite",
+      "price_numeric": 59,
+      "description": "Large mango-flavored toffee.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 120,
+      "product_name": "Chupa Chups Assorted Flavour Long Tubes",
+      "price_numeric": 90,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 121,
+      "product_name": "Alpenliebe Eclairs Plus Pouch, Birthday Pack",
+      "price_numeric": 143,
+      "description": "Creamy caramel chocolate eclairs",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 122,
+      "product_name": "Alpenliebe Gold Caramel Toffee Pouch",
+      "price_numeric": 186,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 123,
+      "product_name": "Alpenliebe Creamfills, Butter Toffee Pouch",
+      "price_numeric": 49,
+      "description": "Buttery toffee filled with creamy delight.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 124,
+      "product_name": "Doublemint Lemonmint Chewymint Tube Pack",
+      "price_numeric": 141,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 125,
+      "product_name": "Happydent White Sugarfree Spearmint Chewing Gum with Xylitol",
+      "price_numeric": 47,
+      "description": "Sugar-free gum with whitening and freshening effects.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 126,
+      "product_name": "Center Fresh Mints Clean Breath Intense Mint Menthol Eucalyptus Flavour",
+      "price_numeric": 200,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 127,
+      "product_name": "Parle Melody Chocolaty",
+      "price_numeric": 96,
+      "description": "Classic chocolate-filled toffee.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 128,
+      "product_name": "Madmix Paan Raisins",
+      "price_numeric": 132,
+      "description": "Sweet paan-flavored raisins",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 129,
+      "product_name": "JoySpoon Calcutta Paan",
+      "price_numeric": 364,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 130,
+      "product_name": "Happydent Wave, Xylitol Sugarfree Mint Flavour, Chewing Gum Pocket Bottle",
+      "price_numeric": 90,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 131,
+      "product_name": "Alpenliebe Gold Strawberry Sugar Candy",
+      "price_numeric": 96,
+      "description": "Sweet strawberry-flavored hard candies",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 132,
+      "product_name": "Pass Pass Minty Mix",
+      "price_numeric": 70,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 133,
+      "product_name": "Skittles Original Chewy Fruit Candy Pack",
+      "price_numeric": 194,
+      "description": "Chewy and colorful fruity candy pieces.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 134,
+      "product_name": "Center Fresh fruit Soft Chews Assorted Candy with Fruit Juice",
+      "price_numeric": 98,
+      "description": "Juicy, chewy candies with real fruit juice.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 135,
+      "product_name": "Pulse Orange Candy Mono Carton",
+      "price_numeric": 52,
+      "description": "Tangy orange hard candy with a spicy core",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 136,
+      "product_name": "Chupa Chups Assorted Flavour Crawlers, Jelly",
+      "price_numeric": 46,
+      "description": "Fun jelly candies in assorted fruity flavors",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 137,
+      "product_name": "The State Plate Anardana Goli",
+      "price_numeric": 80,
+      "description": "Traditional treat with tangy and bold flavors",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 138,
+      "product_name": "Hajmola Maha Candy Pouch - Albela Aam",
+      "price_numeric": 59,
+      "weight_quantity": "50 pieces",
+      "description": "Tangy digestive candy in mango flavor.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 139,
+      "product_name": "Tic Tac Seeds Fennel",
+      "price_numeric": 29,
+      "description": "Aromatic Fennel, Digestive Aid.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 140,
+      "product_name": "Impact Mints Strawberry Sugar Free",
+      "price_numeric": 147,
+      "description": "Sugar-free, Berry Freshness!",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 141,
+      "product_name": "Tic Tac Orange",
+      "price_numeric": 19,
+      "description": "Classic orange-flavoured mints.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 142,
+      "product_name": "Parle Bigger Kaccha Mango Bite Pack",
+      "price_numeric": 49,
+      "description": "Large pack of tangy raw mango-flavored candies",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 143,
+      "product_name": "Mentos Pure Fresh Sugarfree Mint Chewing Gum with Green Tea extract",
+      "price_numeric": 176,
+      "description": "Sugar-free gum for fresh breath",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 144,
+      "product_name": "Center Fruit Liquid Filled Chewing Gum - Pineapple Flavour, Tennis Ball Shape",
+      "price_numeric": 47,
+      "description": "Pineapple gum with a juicy liquid center",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 145,
+      "product_name": "Chupa Chups Sour Rockat Assorted Flavour Soft Candy",
+      "price_numeric": 46,
+      "description": "Sour assorted chewy soft candies.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 146,
+      "product_name": "Impact Mints Cricket Edition - Ice Mint",
+      "price_numeric": 147,
+      "description": "Sugar-free breath mints",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 147,
+      "product_name": "Happydent Wave, Xylitol Sugarfree Fruity Flavour, Chewing Gum Pocket Bottle",
+      "price_numeric": 94,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 148,
+      "product_name": "Chupa Chups Sour Crazy Feet Assorted Flavour Soft Candy",
+      "price_numeric": 46,
+      "description": "Sour-flavored chewy foot-shaped candy",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 149,
+      "product_name": "Alpenliebe Eclairs Plus Choco Caramel Chews",
+      "price_numeric": 94,
+      "description": "Chocolate-filled caramel toffee chews",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 150,
+      "product_name": "Parle Kismi Toffee",
+      "price_numeric": 49,
+      "description": "Classic caramel fruity toffee treat",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 151,
+      "product_name": "Chupa Chups Sour Bites Soft &amp; Chewy Toffee",
+      "price_numeric": 64,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 152,
+      "product_name": "Candyman Mint-o-Fresh",
+      "price_numeric": 83,
+      "description": "Fresh burst of mint for instant refreshment",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 153,
+      "product_name": "Hajmola Chatcola Candy Pouch",
+      "price_numeric": 59,
+      "weight_quantity": "50 pieces",
+      "description": "Tangy digestive candies in cola flavor",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 154,
+      "product_name": "Candyman Fruitee Fills",
+      "price_numeric": 90,
+      "description": "Fruit-flavoured filled chewy candies",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 155,
+      "product_name": "Impact Mint Strike Sugarfree Watermelon Gum",
+      "price_numeric": 98,
+      "description": "Sugar-Free, Watermelon Freshness.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 156,
+      "product_name": "Chupa Chups Sour Tubes Mini Soft &amp; Chewy Assorted Candy",
+      "price_numeric": 62,
+      "description": "Fruity chewy candy in mini tubes",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 157,
+      "product_name": "Tic Tac Spearmint",
+      "price_numeric": 19,
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 158,
+      "product_name": "Chupa Chups Gumfilled Lollipop",
+      "price_numeric": 89,
+      "description": "Chewy bubblegum-filled fruity lollipops.",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 159,
+      "product_name": "Center Fresh Chewy Mints Spearmint Mint with Cooling Crystals",
+      "price_numeric": 100,
+      "description": "Cooling mint candies with crystals",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 160,
+      "product_name": "Kandee Factory Orileys Jujubes Sugar Vegan Candy Naturally Coloured Assorted Fruit",
+      "price_numeric": 91,
+      "description": "Vegan-friendly fruity jujubes with natural colors",
+      "category_name": "Paan and Mouth Fresheners"
+    },
+    {
+      "product_index": 161,
+      "product_name": "Urban Platter Banarasi Paan Mukhwas",
+      "price_numeric": 343,
+      "description": "Traditional paan-flavored mouth freshener",
+      "category_name": "Paan and Mouth Fresheners"
+    }
+  ]
+}
